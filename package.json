@@ -1,0 +1,29 @@
+{
+  "name": "@ask-products/rapid-tests",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Rapid technical tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/askporter/tech-tests.git"
+  },
+  "author": "AskProducts Ltd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/askporter/tech-tests/issues"
+  },
+  "homepage": "https://github.com/askporter/tech-tests#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.13",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.12.13"
+  }
+}

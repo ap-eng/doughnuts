@@ -66,7 +66,7 @@ export function longest(s1, s2) {
  * numbers in ascending order while leaving the even numbers
  * at their original positions.
  *
- * E.g. [8, 6, 1, 3, 2] => [2, 6, 1, 3, 8]
+ * E.g. [5, 3, 2, 8, 1, 4] => [1, 3, 2, 8, 5, 4]
  *
  * @param array - An array of integers
  * @returns An array of integers
